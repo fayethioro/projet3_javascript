@@ -34,18 +34,10 @@ body{
     display: flex;
     flex-direction: column-reverse;
     flex-wrap: wrap;
-
 }
 .dive{
     height: 200px;
     color: white;
-    animation: duree 1s linear ;
+    text-align: center;
 }
-@keyframes duree{
-    from{
-        
-    }
-    to{
-        display: none;
-    }
-}
+/* 
